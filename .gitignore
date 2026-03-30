@@ -1,0 +1,6 @@
+.m2/
+*.jar
+*.pom
+*.sha1
+_remote.repositories
+target/
